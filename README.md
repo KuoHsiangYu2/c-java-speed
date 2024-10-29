@@ -1,11 +1,5 @@
 # c-java-speed
 
-<style>
-    p {
-        font-size: 1.4rem;
-    }
-</style>
-
 <br />
 
 一個簡單的測試範例，<br />
